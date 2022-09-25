@@ -1,0 +1,23 @@
+Java adalah bahasa pemrograman yang sifatnya multiplatform dan dikenal memiliki library yang banyak dan berbasis OOP (Object Oriented Programming) yang dirancang secara khusus agar tidak bergantung pada sistem tertentu.
+Bahasa pemrograman java juga merupakan bahasa pemrograman tingkat tinggi yang berorientasi objek dan tersusun dari beberapa bagian yang disebut dengan kelas (class).
+Java Dikembangkan pertama kali oleh Sun Microsystems dengan Konsep awal yang dikembangkan pada tahun 1991 oleh perusahaan Sun Microsystems. Proyek pertama yang dikembangkannya adalah “The Green Project” yang bertujuan menciptakan bahasa pemrograman baru yang lebih handal dari C dan C++.
+Bahasa baru yang diciptakan tersebut diberi nama Oak,seiring berjalannya waktu Bahasa pemrograman java terus berkembang hingga sampai pada semptember Tahun 2022 java terbaru Release. Didalamnya terdapat berbagai komponen dan fitur-fitur yang baru dan lebih baik
+Seperti terdapat 3 komponen utama yang ada pada java
+1.	Java Development Kit (JDK), yang merupakan komponen inti dari Java Environment dan menyediakan semua alat, binari, dan executable untuk melakukan kompilasi, debugging, dan menjalankan program Java
+2.	Java Virtual Machine (JVM), yang merupakan jantung dari bahasa pemrograman Java. JVM menjadi tumpuan dalam mengubah kode bit ke kode khusus. JVM sendiri bergantung pada platform dan menyediakan fungsi inti Java seperti pengelolaan memori, pengumpulan sampah, keamanan, dan sebagainya
+3.	Java Runtime Environment (JRE), merupakan implementasi dari JVM yang menyediakan platform untuk menjalankan program Java. JRE terdiri dari JVM, binari Java, dan beberapa kelas untuk menjalankan program Java dengan baik.
+Selain ada tiga komponen diatas terdapat juga beberapa fiturnya seperti :
+1.	Kemudahan dan familiar
+2.	Kuat, aman, dan mendukung pemrograman fungsional
+3.	Berkinerja tinggi
+4.	Multithreaded dan interdependensi
+Pada Bahasa pemrograman java juga memiliki banyak kelebihan diantaranya :
+1.	Mudah dipelajadi dan banyak digunakan
+2.	Dapat digunakan dalam berbagai sistem operasi computer
+3.	Memiliki dokumentasi yang bagus dengan dukungan komunitas
+4.	Gratis dan open source
+5.	Memiliki banyak frameworks seperti Spring, JUnit/TestNG, Log4J, dan lainnya
+Didalam java terbaru juga memiliki beberapa fungsi terbaru salah satunya seperti :
+1.	Pratinjau Pembaruan Model Konkurensi
+2.	Pratinjau Fitur Bahasa
+3.	Pratinjau/Inkubator Perpustakaan
